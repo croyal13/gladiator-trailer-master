@@ -1,0 +1,36 @@
+// Flexbox Grid
+.page {
+  display: flex;
+}
+
+header,
+main,
+aside,
+article,
+footer {
+  flex: 1;
+}
+
+header {
+    color: gold;
+}
+
+h6 {
+    color: gold; 
+}
+body {
+    background: black;
+}
+
+li {
+    background: gold;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+img {
+    width: 100%
+}
